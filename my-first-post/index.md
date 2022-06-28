@@ -15,8 +15,8 @@ images: []
 tags: []
 categories: []
 
-featuredImage: "avatar.png"
-featuredImagePreview: "avatar.png"
+featuredImage: "featured-image.jpg"
+featuredImagePreview: "featured-image.jpg"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
