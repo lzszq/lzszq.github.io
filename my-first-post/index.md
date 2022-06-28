@@ -3,17 +3,20 @@
 ---
 title: "My First Post"
 subtitle: ""
-date: 2022-06-29T06:05:49+08:00
-lastmod: 2022-06-29T06:05:49+08:00
+date: "2022-06-29T06:44:53+08:00"
+lastmod: "2022-06-29T06:44:53+08:00"
 draft: false
-author: "Eligansen"
+author: ""
 authorLink: ""
 description: "test"
 license: ""
-images: ['avatar.png']
+images: []
+resources:
+- name: "avatar"
+  src: "avatar.png"
 
-tags: ['cv']
-categories: ['cv']
+tags: []
+categories: []
 
 featuredImage: ""
 featuredImagePreview: ""
