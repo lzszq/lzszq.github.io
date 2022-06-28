@@ -12,11 +12,15 @@ description: "test"
 license: ""
 images: []
 
+resources:
+- name: "featured-image"
+  src: "featured-image.jpg"
+
 tags: []
 categories: []
 
-featuredImage: "featured-image.jpg"
-featuredImagePreview: "featured-image.jpg"
+featuredImage: "featured-image"
+featuredImagePreview: "featured-image"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
