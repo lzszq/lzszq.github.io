@@ -6,14 +6,14 @@ subtitle: ""
 date: 2022-06-29T06:05:49+08:00
 lastmod: 2022-06-29T06:05:49+08:00
 draft: false
-author: ""
+author: "Eligansen"
 authorLink: ""
-description: ""
+description: "test"
 license: ""
-images: []
+images: ['avatar.png']
 
-tags: []
-categories: []
+tags: ['cv']
+categories: ['cv']
 
 featuredImage: ""
 featuredImagePreview: ""
