@@ -10,17 +10,17 @@ author: "test"
 authorLink: ""
 description: "test"
 license: ""
-images: []
+images: ["featured-image.jpg"]
 
-resources:
-- name: "featured-image"
-  src: "featured-image.jpg"
+# resources:
+# - name: "featured-image.jpg"
+#   src: "featured-image.jpg"
 
 tags: []
 categories: []
 
-featuredImage: "featured-image"
-featuredImagePreview: "featured-image"
+# featuredImage: "featured-image.jpg"
+# featuredImagePreview: "featured-image.jpg"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
